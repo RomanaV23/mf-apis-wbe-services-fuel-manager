@@ -1,0 +1,6 @@
+@mf_apis_wbe_services_fuel_manager_HostAddress = http://localhost:5114
+
+GET {{mf_apis_wbe_services_fuel_manager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
